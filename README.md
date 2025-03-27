@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a [CPP Reference](https://github.com/fejo-git/cpp_reference) <br>👯 I’m looking to collaborate on Software Engineering<br>🤝 I’m looking for help with [CPP Reference](https://github.com/fejo-git/cpp_reference) <br>🌱 I’m currently learning C++23, C# and Zephyr Developing<br>💬 Ask me about C++<br>
+🔭 I’m currently working on a [CPP Reference](https://github.com/Scriptz3r0/cpp_reference) <br>👯 I’m looking to collaborate on Software Engineering<br>🤝 I’m looking for help with [CPP Reference](https://github.com/Scriptz3r0/cpp_reference) <br>🌱 I’m currently learning C++23, C# and Zephyr Developing<br>💬 Ask me about C++<br>
 
 
 # 💻 Tech Stack:
@@ -14,14 +14,14 @@
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" align="left" alt="git" height='42px'/> </a> <br><br><br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fejo-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fejo-git&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fejo-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Scriptz3r0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Scriptz3r0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Scriptz3r0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fejo-git&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Scriptz3r0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fejo-git&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Scriptz3r0&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
